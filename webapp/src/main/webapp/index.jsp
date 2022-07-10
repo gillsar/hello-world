@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>Register for Learning</h1>
+=======
+    <h1>Please Complete The Registration Form</h1>
+>>>>>>> 01814cbcad8158d1c7e596db783d9a0f891eb646
     <p>Please fill in this form to create an account.</p>
     <hr>
      
